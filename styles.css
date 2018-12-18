@@ -1,0 +1,63 @@
+body {
+    background-color: lavender;
+}
+h1 {
+    text-align: center;
+    font-size: 45px;
+    text-decoration: underline;
+    font-family: 'Abril Fatface', cursive;
+}
+h2 {
+    text-align: center;   
+    font-family: 'ZCOOL QingKe HuangYou', cursive;
+}
+.container-one {
+    display: flex;
+    justify-content: space-around;
+}
+.first {
+    height: 200px;
+    border-radius: 100%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border: solid white 9px;
+}
+.image {
+    height: 150px;
+    border: solid black;
+}
+.button {
+  background-color: grey;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  font-size: 16px;
+}
+.button:hover {
+    background-color: pink;
+}
+.container-two {
+    text-align: center;
+    font-family: 'Noto Serif SC', serif;
+    font-size: 40px;
+    
+}
+.center {
+    text-align: center;
+}
+.second-half {
+    background-color: mediumpurple;
+    color: white;
+    text-align: center;
+    font-size: 25px;
+    font-family: 'Arvo', serif;
+    padding: 35px;
+}
+.image1 {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
